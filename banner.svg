@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Vladyslav Kononov</title><desc id="desc">QA engineer and independent product builder. Build, test, iterate.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141720"/><stop offset="1" stop-color="#222e47"/></linearGradient><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9bbcff" opacity=".16"/></pattern></defs>
+<rect width="1200" height="330" rx="16" fill="url(#bg)"/><rect width="1200" height="330" rx="16" fill="url(#dots)"/>
+<path d="M59 57H105M59 57V91M1141 239V273H1095" fill="none" stroke="#9bbcff" stroke-width="2"/>
+<text x="78" y="91" fill="#9bbcff" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">BUILD / TEST / ITERATE</text>
+<text x="74" y="161" fill="#edf1fa" font-family="Arial,sans-serif" font-size="53" font-weight="700" letter-spacing="-2">Vladyslav Kononov.</text>
+<text x="78" y="205" fill="#b0bacd" font-family="Arial,sans-serif" font-size="22">QA engineer &amp; independent product builder</text>
+<path d="M78 232H787" stroke="#46546d"/>
+<text x="78" y="263" fill="#b0bacd" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">BROOKLYN, NY · WEB · MOBILE · DESKTOP</text>
+<circle cx="1004" cy="164" r="79" fill="none" stroke="#4e6c9c"/><circle cx="1004" cy="164" r="98" fill="none" stroke="#43516b" stroke-dasharray="2 9"/><text x="1004" y="182" text-anchor="middle" fill="#9bbcff" font-family="Georgia,serif" font-size="55" font-style="italic">VK</text></svg>

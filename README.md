@@ -22,6 +22,8 @@
 | [**Convertik**](https://github.com/Kadadji1/Convertik) | A Windows radial menu for local file conversion, image tools, batch renaming, and reusable presets. | C# · .NET · GitHub Actions | **Early Windows release**, with installer and portable packages. |
 | [**OUT**](https://vlad-kononov-portfolio.duskyskink6.chatgpt.site/#/projects/out) | A mobile app built around expiring availability signals for close friends, with chat and media workflows. | React Native · Expo · TypeScript · Supabase | **Private MVP in development.** Link opens the project case study. |
 
+[Analytics screenshots & results](https://github.com/Kadadji1/dota2-fantasy-optimizer-2026/blob/main/docs/analytics-evidence.md) · [Production bracket fix](https://github.com/Kadadji1/dota2-fantasy-optimizer-2026/blob/main/docs/qa/bracket-routing.md) · [Quiet Apply QA cases](https://github.com/Kadadji1/quiet-apply/blob/main/docs/qa/case-studies.md)
+
 [Explore the project stories, testing, and tools →](https://vlad-kononov-portfolio.duskyskink6.chatgpt.site/#/projects)
 
 ### Quality is part of the build
